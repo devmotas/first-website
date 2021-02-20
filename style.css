@@ -1,0 +1,204 @@
+*{
+    margin: 0px;
+    padding: 0px;
+   
+}
+body{
+    background:black;
+    position: relative;
+}
+.firstPart{
+    width: 100%;
+    height: 250px;
+    position: relative;
+    
+}
+.imgg{
+    margin-top: 250px;
+    margin-left: Calc(50% - 30px) ;
+    
+}
+
+h3, h2{
+    color: #C0C0C0;
+}
+
+.h1{
+    font-size: 70px;
+    width: 596.4px;
+    margin-top: 250px;
+    margin-left: 50%;
+    transform: translate(-50%, -50%);
+    margin-bottom: 200px;
+    color: white;
+}
+
+h3{
+    float: right;
+    margin-right: 80px;
+    margin-top: 120px;
+    font-size: 18px;
+    text-align: right;
+    text-align: justify;
+    width: 400px
+}
+.secoundPart{
+    width: 100%;
+    height: 400px;
+}
+
+h2{
+    margin-top: 10%;
+    margin-left: 90px;
+    font-size: 70px;
+}
+
+.h3{
+    float: left;
+    margin-left: 80px;
+    margin-top: 90px;
+    font-size: 18px;
+    text-align: justify;
+    
+   
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.aboutImg{
+    width: 600px;
+    float: right;
+    margin-right: 120px;
+    margin-top: 80px;
+    border-radius: 10px;
+}
+.thirdPart{
+    width: 100%;
+    height: 635px;
+}
+
+.h2Third{
+    text-align: left;
+    color: #C0C0C0;
+    margin-top: 250px;
+}
+
+.imgThirdtwo .imgThird {
+    display: inline;
+
+}
+
+.imgThird{
+    width: 400px ;
+    margin-top: 45px;
+    margin-left: Calc(50% - 200px);
+    max-height: 230px;
+}
+
+.imgThirdtwo{
+    width: 400px ;
+    margin-top: 45px;
+    margin-left: Calc(50% - 200px);
+    height: 210px;
+    
+}
+
+.oneproject{
+    width: 450px;
+    height: 300px;
+    background-image: url(../images/gray.jpeg);
+    float: left;
+    position: relative;
+    margin-left: calc(25% - 200px);
+    border-radius: 10px;
+    margin-top: 50px;
+    
+}
+.h3Third{
+    color: #C0C0C0;
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+.twoproject{
+    width: 450px;
+    height: 300px;
+    background-image: url(../images/gray.jpeg);
+    float: right;
+    position: relative;
+    margin-right: calc(25% - 200px);
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+.h3Thirdtwo{
+    color: #C0C0C0;
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+.fourthPart{
+    width: 100%;
+    height: 600px;
+    margin-top: -250px;
+}
+
+.mail{
+    max-width: 230px;
+     height: 450px;
+    background-color: #FFFFFFBB;
+	padding: 20px;
+	float: right;
+    text-align: center;
+}
+
+#fundo{
+    margin-left: 300px;
+}
+input[type="submit"]{
+	color: white;
+	background-color: #C0C0C0;
+	font-weight: bold;
+}
+.formContainer{
+	max-width: 500px;
+    background-image: url(../images/gray.jpeg);
+	text-align: center;
+    margin-left: calc(50% - 260px);
+    padding: 25px;
+    margin-bottom: -290px;
+    border-radius: 10px ;
+}
+input, select{
+    width: 100%;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    padding: 10px;
+    border: none;
+    background-color: white;
+    border-radius: 5px ;
+}
+#ask{
+    height: 100px;
+}
+
+
+.horizontal{
+    width: 100%;
+    height: 60px;
+    margin-top: 30%;
+    background-image: url(../images/gray.jpeg);
+    background-size: 100%;
+    padding-top: 25px;
+}
+.linkedin{
+    margin-left: calc(50% - 113.5px);  
+}
+
+a{
+   margin-right: 65px;
+}
